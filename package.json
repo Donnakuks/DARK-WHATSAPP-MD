@@ -1,6 +1,6 @@
 {
-    "name": "𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.",
-    "version": "1.0.0",
+    "name": "XBug-Bot",
+    "version": "5.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "main.js",
     "type": "commonjs",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Dark",
+    "author": "DGXeon",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
